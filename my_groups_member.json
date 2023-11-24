@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Chronic",
+    "topic": "Disease Prevention",
+    "description": "A support group for sharing experiences and providing mutual support.",
+    "diseaseName": "Chronic Illness",
+    "language": "English",
+    "meetingDayOfWeek": "WEDNESDAY",
+    "meetingStartTime": "2023-11-15T10:00:00",
+    "meetingEndTime": "2023-11-15T12:00:00",
+    "members": [],
+    "moderators": [
+      {
+        "id": 2,
+        "firstName": "Aarav",
+        "lastName": "Patel",
+        "email": "aarav.patel@example.com",
+        "phoneNumber": "+919876543210"
+      },
+      {
+        "id": 54,
+        "firstName": "Kavita",
+        "lastName": "Gupta",
+        "email": "kavita.gupta@example.com",
+        "phoneNumber": "+91 9876543222"
+      }
+    ],
+    "groupStatus": "REQUESTED",
+    "followed": true
+  },
+  {
+    "id": 1,
+    "name": "Chronic",
+    "topic": "Disease Prevention",
+    "description": "A support group for sharing experiences and providing mutual support.",
+    "diseaseName": "Chronic Illness",
+    "language": "English",
+    "meetingDayOfWeek": "WEDNESDAY",
+    "meetingStartTime": "2023-11-15T10:00:00",
+    "meetingEndTime": "2023-11-15T12:00:00",
+    "members": [],
+    "moderators": [
+      {
+        "id": 2,
+        "firstName": "Aarav",
+        "lastName": "Patel",
+        "email": "aarav.patel@example.com",
+        "phoneNumber": "+919876543210"
+      },
+      {
+        "id": 54,
+        "firstName": "Kavita",
+        "lastName": "Gupta",
+        "email": "kavita.gupta@example.com",
+        "phoneNumber": "+91 9876543222"
+      }
+    ],
+    "groupStatus": "REQUESTED",
+    "followed": true
+  },
+  {
+    "id": 1,
+    "name": "Chronic",
+    "topic": "Disease Prevention",
+    "description": "A support group for sharing experiences and providing mutual support.",
+    "diseaseName": "Chronic Illness",
+    "language": "English",
+    "meetingDayOfWeek": "WEDNESDAY",
+    "meetingStartTime": "2023-11-15T10:00:00",
+    "meetingEndTime": "2023-11-15T12:00:00",
+    "members": [],
+    "moderators": [
+      {
+        "id": 2,
+        "firstName": "Aarav",
+        "lastName": "Patel",
+        "email": "aarav.patel@example.com",
+        "phoneNumber": "+919876543210"
+      },
+      {
+        "id": 54,
+        "firstName": "Kavita",
+        "lastName": "Gupta",
+        "email": "kavita.gupta@example.com",
+        "phoneNumber": "+91 9876543222"
+      }
+    ],
+    "groupStatus": "REQUESTED",
+    "followed": true
+  },
+  {
+    "id": 1,
+    "name": "Chronic",
+    "topic": "Disease Prevention",
+    "description": "A support group for sharing experiences and providing mutual support.",
+    "diseaseName": "Chronic Illness",
+    "language": "English",
+    "meetingDayOfWeek": "WEDNESDAY",
+    "meetingStartTime": "2023-11-15T10:00:00",
+    "meetingEndTime": "2023-11-15T12:00:00",
+    "members": [],
+    "moderators": [
+      {
+        "id": 2,
+        "firstName": "Aarav",
+        "lastName": "Patel",
+        "email": "aarav.patel@example.com",
+        "phoneNumber": "+919876543210"
+      },
+      {
+        "id": 54,
+        "firstName": "Kavita",
+        "lastName": "Gupta",
+        "email": "kavita.gupta@example.com",
+        "phoneNumber": "+91 9876543222"
+      }
+    ],
+    "groupStatus": "REQUESTED",
+    "followed": true
+  }
+]
